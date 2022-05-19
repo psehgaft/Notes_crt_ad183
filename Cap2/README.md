@@ -2,7 +2,7 @@
 
 # Resource Injection Using CDI
 
-''' xml
+```xml
 <subsystem xmlns="urn:jboss:domain:datasources:4.0">
 <datasources>
    <datasource jndi-name="java:jboss/datasources/ExampleDS" pool-name="ExampleDS" enabled="true" use-java-context="true">
@@ -15,5 +15,5 @@
    </datasource>
 </datasources>
 ...
-'''
+```
 
