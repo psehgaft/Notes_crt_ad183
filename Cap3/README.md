@@ -300,3 +300,5 @@ In CMT, the application server manages the transactions without the developer wr
 
 In BMT, the developer is responsible for managing the transactions and is in full control of the scope of transactions. The developer has to manually commit and rollback transactions if there is an exception or a failure.
 
+
+
