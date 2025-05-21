@@ -7,3 +7,11 @@
 - Convert class to EJb
 - Create a rest service
 - You manage the security of a rest service for consumption by admin and other users
+
+- Maping elements for a clas1 to class2
+- Create a NamedQuery
+- - Query a DB
+- Convert Class to EJB
+- - jax for securoty
+- - Dependency injection
+- Crete a rest service and get data for last query
